@@ -54,7 +54,7 @@ The Company collects the information of users in a way of the followings:
 information
 <br/>
 <br/>
----
+
 #### 2. Use of collected information
 <br/>
 The Company uses the collected information of users for the following purposes:
