@@ -21,28 +21,28 @@ Company's website or individual notice through sending mails, fax or e-mails).
 <br/>
 Personal information items to be collected by the Company are as follows:
 <br/>
-* Information provided by the users
+- Information provided by the users
 <br/>
 The Company may collect the information directly provided by the users.
 <br/>
-* Name, email address, ID, telephone number, address, national information
+- Name, email address, ID, telephone number, address, national information
 <br/>
-* Information of place of taking pictures and date of creation of files
+- Information of place of taking pictures and date of creation of files
 <br/>
-* Information of service use of members such as the type of contents watched or
+- Information of service use of members such as the type of contents watched or
 used by members, frequencies and period of activities of members
 <br/>
 <br/>
-* Information collected while the users use services
+- Information collected while the users use services
 <br/>
 Besides of information directly provided by the users, the Company may collect information in the course that the users use the service provided by the Company.
 <br/>
-* Equipment identifier, operation system, hardware version, equipment set-up
+- Equipment identifier, operation system, hardware version, equipment set-up
 and telephone number
 <br/>
-* Log data, use time, search word input by users, internet protocol address,
+- Log data, use time, search word input by users, internet protocol address,
 cookie and web beacon
-* Information of device location including specific geographical location
+- Information of device location including specific geographical location
 detected through GPS, Bluetooth or Wi-Fi (limited to the region permissible
 under the laws)
 <br/>
@@ -50,7 +50,7 @@ under the laws)
 <br/>
 The Company collects the information of users in a way of the followings:
 <br/>
-* webpage, written form, fax, telephone calling, e-mailing, tools for collection of created
+- webpage, written form, fax, telephone calling, e-mailing, tools for collection of created
 information
 <br/>
 <br/>
